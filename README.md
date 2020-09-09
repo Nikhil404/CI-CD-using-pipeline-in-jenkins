@@ -1,6 +1,9 @@
 # CI-CD-using-pipeline-in-jenkins
 MY Final project
 
+For OVA FILE SEE THIS LINK : https://tinyurl.com/y5mpefdz
+
+
 INSTALL JENKINS ON 18.04 AND SETUP CI-CD FOR PIPELINE FOR JAVA APPLICATION
 
 To complete my project I started with installing Jenkins from the commands from Fig Jenkins
